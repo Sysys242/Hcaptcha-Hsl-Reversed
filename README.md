@@ -4,6 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/762750100500906044/860549000939831316/183296.gif">
     <br><br>
   <b>🖤 Here is js & python version :) 🖤</b><br>
+  <b>Original Script: https://newassets.hcaptcha.com/c/6fdd2f3/hsl.js</b><br>
 </p>
 
 ```

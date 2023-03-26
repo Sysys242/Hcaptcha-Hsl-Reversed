@@ -7,6 +7,8 @@
   <b>Original Script: https://newassets.hcaptcha.com/c/6fdd2f3/hsl.js</b><br>
 </p>
 
+edit: not fully reversed, i am missing a point, the ::2 at the end is false, it change from token to tokens, actually i am bored of reversing the encryption shit, so not a lot of hsl proof will work, but some will !
+
 ```
     def getHsl(proofData) -> str:
         token = proofData['req'].split('.')[1]
